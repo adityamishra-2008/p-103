@@ -1,0 +1,22 @@
+body{
+    color:black;
+    background: blue;;
+}
+.heading{
+    width:70%;
+    font-size:25px;
+}
+.name_of_object,#result_object_name,#result_object_accruacy{
+    color:yellow;
+
+}
+#camera{
+    border: 2px dashed yellowgreen;
+    width: 350px;
+height: 300px;
+}
+#result{
+    border: 2px dashed yellowgreen;
+    width: 350px;
+height: 300px;
+}
